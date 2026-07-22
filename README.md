@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,lua,godot,ts,python,matlab,blender" />
 <br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/esu0108)](https://discord.com/users/esu0108)
+[![Discord Presence](https://lanyard.cnrad.dev/api/240103583083790338)](https://discord.com/users/240103583083790338)
