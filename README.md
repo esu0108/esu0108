@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,lua,ts,python,matlab" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,lua,godot,ts,python,matlab,blender" />
 <br>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/esu0108)](https://discord.com/users/esu0108)
