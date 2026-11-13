@@ -19,4 +19,4 @@ High-performance data structures and algorithms
 AI-powered applications and voice interaction
 
 ## 🔬 Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/240103583083790338)](https://discord.com/users/240103583083790338)
+[![Discord Presence](https://lanyard.cnrad.dev/api/240103583083790338?hideActivity=true&animatedDecoration=true)](https://discord.com/users/240103583083790338)
