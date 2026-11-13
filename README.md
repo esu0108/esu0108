@@ -1,22 +1,22 @@
-## Hi there 👋
+## Hi I'm esu0108 👋
 
-<!--
-**esu0108/esu0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##🚀 Areas of Interest
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Systems Programming — Modern C++, performance optimization, memory management
+Graphics Programming — DirectX 12, GPU computing, real-time rendering
+Game Engine Development — ECS architecture, rendering pipelines, animation systems
+3D Graphics — Mesh processing, geometry, shaders, Blender
+AI & Machine Learning — Local LLMs, speech recognition, voice interaction
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,lua,godot,ts,python,matlab,blender" />
 <br>
+
+##📚 Currently Exploring
+
+Advanced real-time rendering techniques
+GPU-driven rendering and compute shaders
+High-performance data structures and algorithms
+AI-powered applications and voice interaction
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/240103583083790338)](https://discord.com/users/240103583083790338)
